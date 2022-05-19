@@ -6,10 +6,10 @@ AI/ML Engineer
 
 I'm a self-taught coder. Sharing my everyday life as ai engineer on the internet!
 
-* 🔭  I’m currently working on my ai projects
+* 🔭  I’m currently working on my ai projects.
 * ✉️  You can contact me at [fndkasil@gmail.com](mailto:fndkasil@gmail.com)
-* 🧠  I'm learning Deep Learning
-* 🤝  I'm open to collaborating on open source
+* 🧠  I'm learning Deep Learning.
+* 🤝  I'm open to collaborating on open source.
 * ⚡  Actually.. I'm a sport fisherman and can speak Chinese a little bit.
 
 <a href="https://www.twitter.com/asilfndk" target="_blank" rel="noreferrer"><img
