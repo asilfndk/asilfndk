@@ -1,4 +1,4 @@
-Hello World! I'm Asil 👋
+Hi! I'm Asil 👋
 ============================
 
 AI/ML Engineer
