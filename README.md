@@ -11,11 +11,6 @@ I'm a self-taught coder. Sharing my everyday life as a developer on the internet
 * 🧠  I'm currently learning autonomous driving and robotics.
 * 🤝  I'm open to collaborating on open source projects.
 
-<a href="https://www.twitter.com/asilfndk" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/asilfndk?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
-/></a><a href="https://www.github.com/asilfndk" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/asilfndk?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
-
 ### Skills
 
 <p align="left">
