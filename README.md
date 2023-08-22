@@ -1,7 +1,7 @@
 Hi! I'm Asil 👋
 ============================
 
-AI & Robotics Engineer
+AI & Robotics Software Engineer
 --------------
 
 I'm a self-taught coder. Sharing my everyday life as a developer on the internet!
