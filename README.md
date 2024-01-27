@@ -8,7 +8,7 @@ I'm a self-taught coder. Sharing my everyday life as a developer on the internet
 
 * 🔭  I’m currently working on my ai projects.
 * ✉️  You can contact me at [fndkasil@gmail.com](mailto:fndkasil@gmail.com)
-* 🧠  I'm currently learning autonomous driving and robotics.
+* 🧠  I'm currently learning generative ai and LLMs.
 * 🤝  I'm open to collaborating on open source projects.
 
 ### Skills
