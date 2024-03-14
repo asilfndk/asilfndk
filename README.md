@@ -6,7 +6,7 @@ AI & Robotics Software Engineer
 
 I'm a self-taught coder. Sharing my everyday life as a developer on the internet!
 
-* 🔭  I’m currently working on my ai projects.
+* 🔭  I’m currently working on my projects.
 * ✉️  You can contact me at [fndkasil@gmail.com](mailto:fndkasil@gmail.com)
 * 🧠  I'm currently learning Generative AI and RL.
 * 🤝  I'm open to collaborating on open source projects.
