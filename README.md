@@ -1,43 +1,97 @@
-Hi! I'm Asil 👋
-============================
+<div align="center">
 
-AI Software Engineer
---------------
+# Asil Fındık
 
-I'm a self-taught coder. Sharing my everyday life as a developer on the internet!
+### AI Software Engineer
 
-* 🔭  I’m currently working on LLMs.
-* ✉️  You can contact me at [fndkasil@gmail.com](mailto:fndkasil@gmail.com)
-* 🧠  I'm currently learning Generative AI.
-* 🤝  I'm open to collaborating on open source projects.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fndkasil)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://www.stackoverflow.com/users/17180969/asil-fındık)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/asilfndk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fndkasil@gmail.com)
 
-### Skills
+</div>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="pandas" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="Tensorflow" /></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch" /></a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV" /></a>
-<a href="https://cmake.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="36" height="36" alt="CMake" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="git" /></a>
-<a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="36" height="36" alt="Ubuntu" /></a>
-</p>
+---
 
+## 👨‍💻 About Me
 
-### Socials
+Passionate AI Software Engineer with expertise in Machine Learning, Deep Learning, and Large Language Models. Self-taught developer dedicated to continuous learning and sharing knowledge with the developer community.
 
-<p align="left"> <a href="https://www.linkedin.com/in/fndkasil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17180969/asil-fındık" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/asilfndk" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" height="32" /></a></p>
+- 🔭 **Currently Working On:** Large Language Models (LLMs) and AI Applications
+- 🧠 **Learning:** Generative AI, Advanced NLP, and Transformer Architectures
+- 🤝 **Open To:** Collaborating on open source projects
+- 📍 **Location:** Turkey
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🛠️ Technical Skills
 
-<a href="http://www.github.com/asilfndk"><img src="https://github-readme-stats.vercel.app/api?username=asilfndk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="asilfndk's GitHub stats" /></a>
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<a href="https://github.com/asilfndk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilfndk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### AI/ML Frameworks & Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
+---
+
+## 🎯 Areas of Expertise
+
+| Domain | Technologies |
+|--------|-------------|
+| **Machine Learning** | Supervised/Unsupervised Learning, Model Optimization |
+| **Deep Learning** | Neural Networks, CNNs, RNNs, Transformers |
+| **Natural Language Processing** | LLMs, Text Processing, Sentiment Analysis |
+| **Computer Vision** | Image Processing, Object Detection, OpenCV |
+| **Generative AI** | GPT Models, Prompt Engineering, Fine-tuning |
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=asilfndk&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilfndk&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asilfndk&theme=dark&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | [fndkasil@gmail.com](mailto:fndkasil@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/fndkasil](https://www.linkedin.com/in/fndkasil) |
+| 🐦 Twitter | [@asilfndk](https://www.twitter.com/asilfndk) |
+| 💬 Stack Overflow | [Profile](https://www.stackoverflow.com/users/17180969/asil-fındık) |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Continuous learning is the key to innovation"
+
+![Profile Views](https://komarev.com/ghpvc/?username=asilfndk&color=0891b2&style=for-the-badge)
+
+</div>
