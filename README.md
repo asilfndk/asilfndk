@@ -76,6 +76,4 @@ Passionate AI Software Engineer with expertise in Machine Learning, Deep Learnin
 
 ### 💡 "Continuous learning is the key to innovation"
 
-![Profile Views](https://komarev.com/ghpvc/?username=asilfndk&color=0891b2&style=for-the-badge)
-
 </div>
