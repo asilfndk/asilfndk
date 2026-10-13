@@ -129,7 +129,7 @@ AI Software Engineer with 2+ years of experience building production LLM systems
 
 ## 🎓 Education
 
-**B.Sc. in Computer Engineering** — Balıkesir University
+**B.Sc. in Computer Engineering** — Balıkesir University  
 **B.Sc. in Electrical & Electronics Engineering** — Balıkesir University
 
 ---
