@@ -28,7 +28,7 @@ AI Software Engineer with 2+ years of experience building production LLM systems
 ## 💼 Experience
 
 ### AI Software Engineer — CompanyDNA AI
-*Austin, TX, USA · 06/2024 – 06/2026*
+*Austin, TX, USA*
 
 - Built and productionized **RAG pipelines** with FAISS, retrieval tuning, and embedding optimization
 - Fine-tuned open-source LLMs (**Mistral, DeepSeek, Qwen, Llama**) with **LoRA/QLoRA & PEFT**; built an automated benchmarking framework for accuracy, precision, latency, and context performance
@@ -38,7 +38,7 @@ AI Software Engineer with 2+ years of experience building production LLM systems
 - Scaled third-party integrations by **~300%**, supporting **100+** external applications
 
 ### AI & CV Researcher — Turkish Aerospace Industries
-*Ankara, TR · 10/2023 – 06/2024*
+*Ankara, TR*
 
 - Developed a real-time **YOLO** wildlife detection pipeline for UAV camera imagery
 - Designed a geometric projection algorithm mapping detections into UAV coordinate systems (on- and off-screen localization)
