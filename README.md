@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-AI Software Engineer with 2+ years of experience building production LLM systems — RAG pipelines, fine-tuned open-source models, and multi-agent workflows — plus a background in computer vision research for UAVs and embedded robotics. Computer Engineering graduate from Balıkesir University.
+AI Software Engineer with 2+ years of experience building production LLM systems — RAG pipelines, fine-tuned open-source models, and multi-agent workflows — plus a background in computer vision research for UAVs and embedded robotics.
 
 - 🔭 **Focus:** Production LLM applications, RAG, LLM fine-tuning, and agentic AI
 - 🛰️ **Background:** Real-time object detection & localization for UAVs at Turkish Aerospace
